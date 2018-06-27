@@ -1,0 +1,17 @@
+{
+  "name": "qingdao_hotspot",
+  "version": "1.0.0",
+  "description": "民情社情分析",
+  "main": "",
+  "scripts": {
+    "dev": "gulp"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-livereload": "^3.8.1"
+  }
+}
